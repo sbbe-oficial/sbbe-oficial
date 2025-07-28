@@ -11,7 +11,7 @@
 <div align="center">
 <hr width="100%" style="height:10px;">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbbe-oficial&bg_color=00000000&text_color=B869AC&icon_color=EDEDED&title_color=EDEDED&hide_border=false&disable_animations=false&show_icons=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbbe-oficial&bg_color=00000000&text_color=365338&icon_color=7E987D&title_color=365338&hide_border=false&disable_animations=false&show_icons=true&include_all_commits=true" />
 </p>
  </div>
 
