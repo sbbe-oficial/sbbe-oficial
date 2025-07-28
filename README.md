@@ -22,7 +22,7 @@
 </p>
  </div>
 
-![Snake animation](https://github.com/sbbe-oficial/sbbe-oficial/blob/output/github-snake.svg)
-[Crazy Snake](https://github.com/Platane/snk) devouring my _scarce_ commits!
+![Snake animation](https://github.com/sbbe-oficial/sbbe-oficial/blob/output/github-snake-dark.svg)
+[Crazy Snake](https://github.com/Platane/snk) devouring our _scarce_ commits!
 
 
