@@ -5,7 +5,7 @@
 
 <div align="justify"> 
 
-* Our incipient _Society_ was founded in 2024, and you can learn more about its creation and purpose by reading our [commentary article](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12377) published in the journal [Evolution](https://academic.oup.com/evolut).
+* Our nascent _Society_ was founded in 2024 and already has more than 250 members. You can learn more about its creation and purpose by reading our [commentary article](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12377) published in the journal [Evolution](https://academic.oup.com/evolut).
 
  </div>
 <div align="center">
