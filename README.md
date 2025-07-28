@@ -10,7 +10,6 @@
 
  </div>
 <div align="center">
-<div align="center"><b><i>Evolutionary Biology • Animal Domestication • Genomics</b></i></div>
 <hr width="50%" style="height:5px;">
 
 <a href="https://git-scm.com/"><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/GitLogo.png" align="leth" width="40" />
