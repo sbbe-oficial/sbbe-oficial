@@ -16,7 +16,6 @@
 <a href="https://www.rstudio.com/"><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/RStudioLogo.png" align="leth" width="40" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbbe-oficial&bg_color=00000000&text_color=B869AC&icon_color=EDEDED&title_color=EDEDED&hide_border=false&disable_animations=false&show_icons=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbbe-oficial&layout=compact&langs_count=10&bg_color=00000000&text_color=B869AC&title_color=EDEDED&hide_border=false&disable_animations=false&show_icons=true" />
 </p>
  </div>
 
