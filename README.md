@@ -5,8 +5,7 @@
 
 <div align="justify"> 
 
-* I was initially trained as a biologist in the [Brazilian Northeast](https://en.wikipedia.org/wiki/Northeast_Region,_Brazil). Since then, I have worked on several projects in the vein of _Evolutionary Genomics_ investigating a diverse range of taxa such as tiny [Collembolans](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12377) and culturally evolving [killer whales](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15099).  
-* I strongly support #_OpenScience_, so I use this account to **store** and **share** the codes used in my publications in [individual repositories](https://github.com/sbbe-oficial?tab=repositories).
+* Our incipient _Society_ was founded in 2024, and you can learn more about its creation and purpose by reading our [commentary article](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12377) published in the journal [Evolution](https://academic.oup.com/evolut).
 
  </div>
 <div align="center">
@@ -22,6 +21,6 @@
  </div>
 
 ![Snake animation](https://github.com/sbbe-oficial/sbbe-oficial/blob/output/github-snake-dark.svg)
-[Crazy Snake](https://github.com/Platane/snk) devouring our _scarce_ commits!
+[Crazy Snake](https://github.com/Platane/snk) devouring our _ever-evolving_ commits!
 
 
