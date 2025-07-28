@@ -1,6 +1,6 @@
-<div align="left"> 🧬 ☄️ 🧠 🌴 🐚 🧫 🦖 🪶 🐊 🐒 🐍 🌎 </div>
+<div align="center"> 🧬 ☄️ 🧠 🌴 🐚 🧫 🦖 🪶 🐊 🐒 🐍 🌎 </div>
 
-<h1 align="center"> Hello there! 👋🤓 </h1>
+<h1 align="center"> Brazilian Society for Evolutionary Biology </h1>
 <br/ >
 
 <div align="justify"> 
