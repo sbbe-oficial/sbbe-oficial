@@ -1,4 +1,4 @@
-<div align="right"> 🔬🧬💻🧠🔭 </div>
+<div align="left"> 🧬 ☄️ 🧠 🌴 🐚 🧫 🦖 🪶 🐊 🐒 🐍 🌎 </div>
 
 <h1 align="center"> Hello there! 👋🤓 </h1>
 <br/ >
