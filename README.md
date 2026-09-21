@@ -5,7 +5,7 @@
 
 <div align="justify"> 
 
-* Our nascent _Society_ was founded in 2024 and already has more than 250 members.
+* Our nascent _Society_ was founded in 2024 and currently has more than 430 members.
 
  </div>
 <div align="center">
